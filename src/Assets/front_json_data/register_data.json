@@ -1,0 +1,34 @@
+[
+  {
+    "label":"Login",
+    "placeholder":"Eg. your login here",
+    "type":"text",
+    "required":true,
+    "name":"login"
+  },
+  {
+    "label":"Name",
+    "placeholder":"Eg. your name here",
+    "type":"text",
+    "required":true,
+    "name":"name"
+  },
+  {
+    "label":"Surname",
+    "placeholder":"Eg. your surname here",
+    "type":"text",
+    "name":"surname"
+  },
+  {
+    "label":"e-mail",
+    "placeholder":"Eg. your email here",
+    "type":"email",
+    "name":"email"
+  },
+  {
+    "label":"Phone number",
+    "placeholder":"Eg. your number here",
+    "type":"tel",
+    "name":"phone"
+  }
+]
